@@ -4,19 +4,19 @@ XMLBlockGame을 위한 xml파일 제작을 도와주는 XMLWritingTool
 # Package XMLWritingTool
 
 <h4>Class Summary</h4>
-BasicToolsPanel: 게임 기본설정 제작 Panel
-BlockSetDialog: Block 설정을 도와주는 Dialog
-BlockToolsPanel: 게임 Block설정 제작 Panel
-BlockTypeSetPanel: 게임 Block Type설정 제작 Panel
-FileDialog: file 선택을 도와주는 Dialog
-GameGroundPanel: 제작한 게임 화면 Panel
-GameInitToolsPanel: 게임 인트로화면 설정 제작 Panel
-MusicToolsPanel: 게임 음악설정 제작 Panel
-SelectImageDialog: image 선택을 도와주는 Dialog
-SelectMusicPanel: music 선택을 도와주는 Panel
-WritingBlock: 게임의 제작을 위한 Block 이미지 레이블 (extends JLabel)
-XmlString: 게임의 제작을 위한 xmlString
-XmlWritingToolsFrame: Block 게임제작 Frame을 설정하는 class
+<h5>BasicToolsPanel</h5>: 게임 기본설정 제작 Panel
+<h5>BlockSetDialog</h5>: Block 설정을 도와주는 Dialog
+<h5>BlockToolsPanel</h5>: 게임 Block설정 제작 Panel
+<h5>BlockTypeSetPanel</h5>: 게임 Block Type설정 제작 Panel
+<h5>FileDialog</h5>: file 선택을 도와주는 Dialog
+<h5>GameGroundPanel</h5>: 제작한 게임 화면 Panel
+<h5>GameInitToolsPanel</h5>: 게임 인트로화면 설정 제작 Panel
+<h5>MusicToolsPanel</h5>: 게임 음악설정 제작 Panel
+<h5>SelectImageDialog</h5>: image 선택을 도와주는 Dialog
+<h5>SelectMusicPanel</h5>: music 선택을 도와주는 Panel
+<h5>WritingBlock</h5>: 게임의 제작을 위한 Block 이미지 레이블 (extends JLabel)
+<h5>XmlString</h5>: 게임의 제작을 위한 xmlString
+<h5>XmlWritingToolsFrame</h5>: Block 게임제작 Frame을 설정하는 class
 
 # Game 실행 화면
 
