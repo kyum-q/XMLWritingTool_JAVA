@@ -1,11 +1,10 @@
 # XMLWritingTool
 XMLBlockGame을 위한 xml파일 제작을 도와주는 XMLWritingTool
 
-# 설명
 손쉽게 게임 테마를 만들어 색다른 게임을 제작할 수 있어요
 
 # 실행 화면
-![Group 21 (1)](https://user-images.githubusercontent.com/109158497/236506030-a6382255-6b7e-4361-847d-6d72b69013d4.png)
+![Group 44](https://user-images.githubusercontent.com/109158497/236521835-fc57a4c5-1e85-4cb8-a6ee-ee8d59589aab.png)
 ![Group 22](https://user-images.githubusercontent.com/109158497/236505959-1a493213-adf7-4405-aafa-1bc8b48bd58b.png)
 
 # Package XMLWritingTool
