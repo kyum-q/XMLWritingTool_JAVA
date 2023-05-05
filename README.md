@@ -1,6 +1,13 @@
 # XMLWritingTool
 XMLBlockGame을 위한 xml파일 제작을 도와주는 XMLWritingTool
 
+# 설명
+손쉽게 게임 테마를 만들어 색다른 게임을 제작할 수 있
+
+# 실행 화면
+![Group 21 (1)](https://user-images.githubusercontent.com/109158497/236506030-a6382255-6b7e-4361-847d-6d72b69013d4.png)
+![Group 22](https://user-images.githubusercontent.com/109158497/236505959-1a493213-adf7-4405-aafa-1bc8b48bd58b.png)
+
 # Package XMLWritingTool
 
 <h4>Class Summary</h4>
@@ -17,31 +24,3 @@ XMLBlockGame을 위한 xml파일 제작을 도와주는 XMLWritingTool
 <h5>WritingBlock</h5>: 게임의 제작을 위한 Block 이미지 레이블 (extends JLabel)
 <h5>XmlString</h5>: 게임의 제작을 위한 xmlString
 <h5>XmlWritingToolsFrame</h5>: Block 게임제작 Frame을 설정하는 class
-
-# Game 실행 화면
-
-<h4>게임 기본 화면</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199746733-5e78f7cc-1dcc-40a6-88aa-ecb762442c2b.png)
-
-<h4>배경 이미지 선택 (이미지 창: 다른 이미지도 이러한 이미지 창이 나옴)</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199746859-3c76f23f-3b65-40e1-bfda-5f9492f67107.png)
-
-<h4>Basic 설정을 도와주는 창 (user 이미지/ shooting 이미지 등등)</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199747048-4912f071-b5bd-45fd-bbc0-44a52404abe6.png)
-
-<h4>음악 설정을 도와주는 창 (노래를 듣고 고를 수 있다)</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199747257-9c7896f6-53e8-46db-8020-6de0759b6c68.png)
-
-<h4>Block 설정을 도와주는 창(Block 이미지, block 상태 등)</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199745780-e02bc0a1-f696-4430-a185-d13fea569481.png)
-
-<h4>게임 시작 전/ 승리/ 패배 화면 설정을 도와주는 창</h4>
-
-![image](https://user-images.githubusercontent.com/109158497/199746318-7ec4636c-e2ed-4fe7-95d2-c7396f3d2505.png)
-
-
